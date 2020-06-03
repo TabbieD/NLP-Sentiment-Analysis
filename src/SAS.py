@@ -8,6 +8,7 @@ import seaborn as sn
 import matplotlib.pyplot as plt
 
 # Load pre-trained model.
+# Training was done using fasttext command line interface
 SAS_model = fasttext.load_model("model_suicide.bin")
 
 # Test the model on test data
