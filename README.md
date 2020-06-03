@@ -1,4 +1,4 @@
-# NLP-Sentiment-Analysis
+# NLP-Sentiment-Analysis For Suicidal Ideation Detection
 
 This project uses the Facebook FastText library to classify texts for the analysis of sentiments that show suicidal ideation.
 There is a standard [tutorial](https://fasttext.cc/docs/en/supervised-tutorial.html) on using FastText for text classification> 
