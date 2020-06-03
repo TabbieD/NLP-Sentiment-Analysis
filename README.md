@@ -7,5 +7,5 @@ Content’ [Shaoxiong Ji et al., 2018](https://www.researchgate.net/publication/
 These datasets contain suicidal ideation texts collected from Reddit.
 
 ## Results:
-![Image of the result of prediction carried out on some texts.](https://github.com/TabbieD/NLP-Sentiment-Analysis/images/prediction_results.png)
-![Image of the comparison of SAS' result to another research's.](https://github.com/TabbieD/NLP-Sentiment-Analysis/images/results.png)
+![Image of the result of prediction carried out on some texts.](https://github.com/TabbieD/NLP-Sentiment-Analysis/blob/master/images/prediction_results.png)
+![Image of the comparison of SAS' result to another research's.](https://github.com/TabbieD/NLP-Sentiment-Analysis/blob/master/images/results.png)
